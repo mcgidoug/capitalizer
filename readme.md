@@ -4,4 +4,4 @@ Here is a tool that will capitalize any text you give it. I got tired of utilizi
 
 # Deployment
 
-Try it out on [Github Pages]()
+Try it out on [Github Pages](https://mcgidoug.github.io/capitalizer/)
