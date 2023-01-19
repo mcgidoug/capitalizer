@@ -8,6 +8,15 @@
   cursor: pointer;
 }
 
+#lower-button {
+  margin-top: 10px;
+  cursor: pointer;
+}
+
 input {
   width: 99vw;
+}
+
+.lower-function {
+  margin-top: 10px;
 }
